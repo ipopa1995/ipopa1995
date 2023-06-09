@@ -11,16 +11,6 @@ Welcome to my GitHub Profile!
 I am passionate about technology, programming, and exploring innovative solutions to real-world problems. With a strong background in Bioinformatics and DataSience,
 I strive to create high-quality software and contribute to open source projects.
 
-## Personal Information
-
-- **Name:** Ioana Popa
-- **Date/Place of Birth:** 23.01.1995 / Bacău
-- **Mobile:** 0176-42608268
-- **Email:** ioana@popa-online.de
-- **LinkedIn:** [ioana-popa-31a96a171](https://www.linkedin.com/in/ioana-popa-31a96a171)
-- **Xing:** [Ioana_Popa9](https://www.xing.com/profile/Ioana_Popa9/cv)
-- **Nationality:** German
-
 
 ## Research Studies
 - **KnowVID-19: An artificially intelligent knowledge-based system for COVID-19 to extract targeted information from online medical repositories**Authors: Ioana Popa, Muzzamil Aziz, Amjad Zia, Sabih Ahmed Khan, Amirreza Fazely Hamedani, Abdul R. AsifYear: 2023
@@ -72,13 +62,6 @@ I strive to create high-quality software and contribute to open source projects.
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-
-## Personal Strengths
-Initiative, reliability, willingness to participate, teamwork, and willingness to learn
-
-## Interests and Hobbies
-
-Badminton, diving, reading, music
 
 # GitHUB STATS
 
