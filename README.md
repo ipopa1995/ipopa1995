@@ -24,41 +24,101 @@ Welcome to my GitHub Profile!
 I am passionate about technology, programming, and exploring innovative solutions to real-world problems. With a strong background in Bioinformatics and DataSience,
 I strive to create high-quality software and contribute to open source projects.
 
-## Projects
+## Personal Information
+- **Name:** Ioana Popa
+- **Address:** Adolf-Miersch-Strasse 18, 60528, Frankfurt am Main
+- **Date/Place of Birth:** 23.01.1995 / Bacău
+- **Mobile:** 0176-42608268
+- **Email:** ioana@popa-online.de
+- **LinkedIn:** [ioana-popa-31a96a171](https://www.linkedin.com/in/ioana-popa-31a96a171)
+- **Xing:** [Ioana_Popa9](https://www.xing.com/profile/Ioana_Popa9/cv)
+- **Nationality:** German
+- **Marital Status:** Single
 
-Here are some of the notable projects available in this repository:
+## Education
+- **Master's Degree in Bioinformatics** (10/2018 - 03/2021)  
+Goethe University Frankfurt am Main  
+- **Bachelor's Degree in Applied Bioinformatics** (09/2014 - 06/2018)  
+Technical University Bingen am Rhein  
+- **High School** (2006 - 2014)  
+Heinrich-Heine-Gymnasium Nellingen  
+- **Elementary School** (2002 - 2006)  
+Lindenschule Parksiedlung
 
-- **Project 1** - [Brief description or purpose of the project]
-- **Project 2** - [Brief description or purpose of the project]
-- **Project 3** - [Brief description or purpose of the project]
+## Professional Experience
+- **Scientific Assistant** (08/2021 - Present)  
+Institute for Clinical Chemistry, University Medical Center Göttingen  
+Project: CovidCrawler - AI-NET Protect and GWDG  
+- **Internship** (04/2020 - 07/2020)  
+Department of Computer Science, Goethe University Frankfurt am Main  
+- **Research Internship** (02/2020 - 04/2020)  
+Molecular Bioinformatics Group (MolBI), Goethe University Frankfurt am Main  
+- **Internship** (10/2019 - 01/2020)  
+Department of Applied Bioinformatics, Goethe University Frankfurt am Main  
+- **Internship** (04/2019 - 09/2019)  
+Department of Computer Science, Goethe University Frankfurt am Main  
+- **Practical Phase** (11/2017 - 04/2018)  
+Department of Radiotherapy and Oncology, Mainz University Medical Center  
+- **Internship** (03/2017 - 06/2017)  
+Genetic Engineering S1 Laboratory, Technical University Bingen am Rhein  
+- **Internship** (11/2016 - 02/2017)  
+Department of Applied Bioinformatics, Technical University Bingen am Rhein
 
-Feel free to explore the repository to discover more projects and code samples.
+## Published Research Studies
+- **KnowVID-19: An artificially intelligent knowledge-based system for COVID-19 to extract targeted information from online medical repositories**  
+Authors: Ioana Popa, Muzzamil Aziz, Amjad Zia, Sabih Ahmed Khan, Amirreza Fazely Hamedani, Abdul R. Asif  
+Year: 2023
+
+- **Artificial Intelligence-Based Medical Data Mining**  
+Authors: Amjad Zia, Muzzamil Aziz, Ioana Popa, Sabih Ahmed Khan, Amirreza Fazely Hamedani, Abdul R. Asif  
+Published in: J. Pers. Med. 2022, Volume 12, Issue 9, 1359  
+Date: 24.08.2022
 
 ## Skills
+### Languages
+- German (fluent, spoken & written)
+- English (fluent, spoken & written)
+- Romanian (native language)
 
-- Programming languages: [List your programming languages]
-- Web development: [List your web development skills]
-- Database management: [List your database management skills]
-- Data analysis: [List your data analysis skills]
-- Version control: [List your version control skills]
+### Programming Languages
 
-## Contributions
+- Python, Java, Perl, C++
 
-I actively contribute to open source projects and have made significant contributions to the following repositories:
+### Python Libraries
+- BioPython, selenium, scrapy, flask, dash, flashText, Matplotlib, Requests
 
-- **Repository 1** - [Brief description of your contribution]
-- **Repository 2** - [Brief description of your contribution]
-- **Repository 3** - [Brief description of your contribution]
+### Machine Learning (Python Libraries)
+- spacy, NLTK, keyBERT, Scikit-learn, pandas, numPy, transformers
 
-## Get in Touch
+### Scripting Languages
+- JavaScript, ImageJ Macro, Bean Shell
 
-I am open to collaboration and new opportunities. If you have any questions, suggestions, or would like to connect, feel free to reach out to me. You can contact me through the following channels:
+### Web Technologies
+- HTML, CSS, XML, XSLT, JSON, AJAX, PHP
 
-- Email: [Your email address]
-- LinkedIn: [Your LinkedIn profile URL]
-- Twitter: [Your Twitter handle]
+### Databases
+- PL SQL, Oracle, SQLite, MySQL
 
-Thank you for visiting my GitHub profile! I look forward to connecting with you.
+### Linux/Unix
+- bash, Installation, Administration
+
+### Tools
+- Eclipse, Visual Paradigm, SQL Developer, DB Main, VMware Workstation, Visual Studio Code, Jupyter Notebook
+
+### Image Processing
+- ImageJ, FIJI
+
+### Office
+- Excel, PowerPoint, Word, LaTeX
+
+### Bioinformatics
+- Cytoscape, ClueGO, Network Analyzer, R-Programmierung, Anaconda, MinION, Metrichor, Phylobot, Blast, Albacore, Poretools, FastQC, ClustalW, ViennaRNA, GenFrag, PROCHECK, RASMOL, Art Illumina
+
+## Personal Strengths
+Initiative, reliability, willingness to participate, teamwork, and willingness to learn
+
+## Interests and Hobbies
+Badminton, diving, reading, music
 
 
 
