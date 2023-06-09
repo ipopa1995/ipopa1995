@@ -105,7 +105,7 @@ Initiative, reliability, willingness to participate, teamwork, and willingness t
 Badminton, diving, reading, music
 
 
-
+# GitHUB STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipopa1995&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipopa1995&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ipopa1995&layout=compact&show_icons=true&theme=radical)](https://github.com/ipopa1995/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ipopa1995&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
