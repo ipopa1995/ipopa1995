@@ -64,7 +64,7 @@ Genetic Engineering S1 Laboratory, Technical University Bingen am Rhein
 - **Internship** (11/2016 - 02/2017)  
 Department of Applied Bioinformatics, Technical University Bingen am Rhein
 
-## Published Research Studies
+## Research Studies
 - **KnowVID-19: An artificially intelligent knowledge-based system for COVID-19 to extract targeted information from online medical repositories**  
 Authors: Ioana Popa, Muzzamil Aziz, Amjad Zia, Sabih Ahmed Khan, Amirreza Fazely Hamedani, Abdul R. Asif  
 Year: 2023
