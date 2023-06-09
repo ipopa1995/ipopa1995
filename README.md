@@ -81,7 +81,6 @@ Date: 24.08.2022
 - Romanian (native language)
 
 ### Programming Languages
-
 - Python, Java, Perl, C++
 
 ### Python Libraries
@@ -98,21 +97,6 @@ Date: 24.08.2022
 
 ### Databases
 - PL SQL, Oracle, SQLite, MySQL
-
-### Linux/Unix
-- bash, Installation, Administration
-
-### Tools
-- Eclipse, Visual Paradigm, SQL Developer, DB Main, VMware Workstation, Visual Studio Code, Jupyter Notebook
-
-### Image Processing
-- ImageJ, FIJI
-
-### Office
-- Excel, PowerPoint, Word, LaTeX
-
-### Bioinformatics
-- Cytoscape, ClueGO, Network Analyzer, R-Programmierung, Anaconda, MinION, Metrichor, Phylobot, Blast, Albacore, Poretools, FastQC, ClustalW, ViennaRNA, GenFrag, PROCHECK, RASMOL, Art Illumina
 
 ## Personal Strengths
 Initiative, reliability, willingness to participate, teamwork, and willingness to learn
