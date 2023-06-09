@@ -83,20 +83,14 @@ Date: 24.08.2022
 ### Programming Languages
 - Python, Java, Perl, C++
 
-### Python Libraries
-- BioPython, selenium, scrapy, flask, dash, flashText, Matplotlib, Requests
-
-### Machine Learning (Python Libraries)
-- spacy, NLTK, keyBERT, Scikit-learn, pandas, numPy, transformers
-
 ### Scripting Languages
-- JavaScript, ImageJ Macro, Bean Shell
+- JavaScript, ImageJ
 
 ### Web Technologies
-- HTML, CSS, XML, XSLT, JSON, AJAX, PHP
+- HTML, CSS, XML, XSLT, JSON
 
 ### Databases
-- PL SQL, Oracle, SQLite, MySQL
+- SQLite, MySQL
 
 ## Personal Strengths
 Initiative, reliability, willingness to participate, teamwork, and willingness to learn
