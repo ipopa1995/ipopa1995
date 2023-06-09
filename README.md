@@ -104,4 +104,4 @@ Badminton, diving, reading, music
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipopa1995&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipopa1995&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ipopa1995&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+![[GitHub Streak](https://streak-stats.demolab.com?user=ipopa1995&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
