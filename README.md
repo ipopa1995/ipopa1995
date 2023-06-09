@@ -1,6 +1,6 @@
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages--->
 
-![IOANA](bio.gif)
+![BIO](bio_new.gif)
 
 # ipopa1995
 
