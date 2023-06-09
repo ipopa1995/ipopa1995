@@ -83,6 +83,7 @@ I strive to create high-quality software and contribute to open source projects.
 
 ### Tools
 ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -92,7 +93,6 @@ I strive to create high-quality software and contribute to open source projects.
 ![Rasberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 ## Personal Strengths
-
 Initiative, reliability, willingness to participate, teamwork, and willingness to learn
 
 ## Interests and Hobbies
