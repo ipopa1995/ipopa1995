@@ -26,14 +26,12 @@ I strive to create high-quality software and contribute to open source projects.
 
 ## Personal Information
 - **Name:** Ioana Popa
-- **Address:** Adolf-Miersch-Strasse 18, 60528, Frankfurt am Main
 - **Date/Place of Birth:** 23.01.1995 / Bacău
 - **Mobile:** 0176-42608268
 - **Email:** ioana@popa-online.de
 - **LinkedIn:** [ioana-popa-31a96a171](https://www.linkedin.com/in/ioana-popa-31a96a171)
 - **Xing:** [Ioana_Popa9](https://www.xing.com/profile/Ioana_Popa9/cv)
 - **Nationality:** German
-- **Marital Status:** Single
 
 ## Education
 - **Master's Degree in Bioinformatics** (10/2018 - 03/2021)  
