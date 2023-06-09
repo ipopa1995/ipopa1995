@@ -1,6 +1,6 @@
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages--->
 
-![IOANA](1612870688057.jpg)
+![IOANA]()
 
 # ipopa1995
 
