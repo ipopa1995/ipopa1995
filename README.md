@@ -36,8 +36,8 @@ I strive to create high-quality software and contribute to open source projects.
   Published in: J. Pers. Med. 2022, Volume 12, Issue 9, 1359
   Date: 24.08.2022
 
-<details open> 
 ## Skills
+<details open> 
 
 ### Languages
 - German, English, Romanian
