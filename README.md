@@ -82,7 +82,7 @@ I strive to create high-quality software and contribute to open source projects.
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-# GitHUB STATS
+# 📊 GitHub Stats 📊
 ![Ioana GitHub stats](https://github-readme-stats.vercel.app/api?username=ipopa1995&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipopa1995&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
 ![Ioana GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipopa1995&theme=radical)
