@@ -38,7 +38,7 @@ I strive to create high-quality software and contribute to open source projects.
   Date: 24.08.2022
 
 <details>
-  <summary> <h2> Skills 🛠️ </h2> </summary>
+  <summary> <h1> Skills 🛠️ </h1> </summary>
 
 ### Languages
 - German, English, Romanian
