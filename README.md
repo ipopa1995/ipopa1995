@@ -89,7 +89,7 @@ I strive to create high-quality software and contribute to open source projects.
 </details>
 
 
-# 📊 GitHub Stats 📊
+## 📊 GitHub Stats 📊
 
 ![Ioana GitHub stats](https://github-readme-stats.vercel.app/api?username=ipopa1995&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipopa1995&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
