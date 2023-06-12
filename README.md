@@ -5,18 +5,19 @@
 
 Welcome to my GitHub Profile!
 
-## About Me 💁
+## About Me
+
 I am passionate about technology, programming, and exploring innovative solutions to real-world problems. With a strong background in Bioinformatics and DataSience,
 I strive to create high-quality software and contribute to open source projects.
 
-## Education 🎓
+## Education
 - **Master's Degree in Bioinformatics** (10/2018 - 03/2021)Goethe University Frankfurt am Main
 - **Bachelor's Degree in Applied Bioinformatics** (09/2014 - 06/2018)Technical University Bingen am Rhein
 - **High School** (2006 - 2014)Heinrich-Heine-Gymnasium Nellingen
 - **Elementary School** (2002 - 2006)
   Lindenschule Parksiedlung
 
-## Professional Experience 🌱
+## Professional Experience
 - **Scientific Assistant** (08/2021 - Present)Institute for Clinical Chemistry, University Medical Center GöttingenProject: CovidCrawler - AI-NET Protect and GWDG
 - **Internship** (04/2020 - 07/2020)Department of Computer Science, Goethe University Frankfurt am Main
 - **Research Internship** (02/2020 - 04/2020) Molecular Bioinformatics Group (MolBI), Goethe University Frankfurt am Main
@@ -27,7 +28,7 @@ I strive to create high-quality software and contribute to open source projects.
 - **Internship** (11/2016 - 02/2017)
   Department of Applied Bioinformatics, Technical University Bingen am Rhein
 
-## Research Studies 📝
+## Research Studies
 - **KnowVID-19: An artificially intelligent knowledge-based system for COVID-19 to extract targeted information from online medical repositories**Authors: Ioana Popa, Muzzamil Aziz, Amjad Zia, Sabih Ahmed Khan, Amirreza Fazely Hamedani, Abdul R. Asif; Year: 2023 (not published yet)
 - **Artificial Intelligence-Based Medical Data Mining**
   Authors: Amjad Zia, Muzzamil Aziz, Ioana Popa, Sabih Ahmed Khan, Amirreza Fazely Hamedani, Abdul R. Asif
@@ -35,10 +36,13 @@ I strive to create high-quality software and contribute to open source projects.
   Date: 24.08.2022
 
 <details>
-  <summary> <h2> 🛠️ Skills 🛠️ </h2> </summary>
+  <summary> <h2> Skills 🛠️ </h2> </summary>
 
 ### Languages
-- German, English, Romanian
+[![English](https://img.shields.io/badge/English-Blue?style=for-the-badge&logo=google-translate&color=2B57AC)](https://en.wikipedia.org/wiki/English_language)
+[![German](https://img.shields.io/badge/German-Black?style=for-the-badge&logo=google-translate&color=000000)](https://en.wikipedia.org/wiki/German_language)
+[![Romanian](https://img.shields.io/badge/Romanian-🇷🇴%20Red?style=for-the-badge&logo=google-translate&color=002B7F)](https://en.wikipedia.org/wiki/Romanian_language)
+
 
 ### Programming Languages 👨‍💻
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
@@ -65,16 +69,17 @@ I strive to create high-quality software and contribute to open source projects.
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white&style=for-the-badge&labelColor=black&labelWidth=110&logoWidth=40)
 
-### Tools 🛠️
+### Tools 💻
 ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab%20Badge-Blue?logo=google-colab&color=F9E79F&style=for-the-badge&logoHeight=23&labelWidth=125)](https://colab.research.google.com/)
 
-### Operating Systems 💻
+
+### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Prototyping Platform 💻
+### Prototyping Platform
 ![Rasberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 ### Office 💻
@@ -89,8 +94,7 @@ I strive to create high-quality software and contribute to open source projects.
 </details>
 
 
-## 📊 GitHub Stats 📊
-
+# 📊 GitHub Stats 📊
 ![Ioana GitHub stats](https://github-readme-stats.vercel.app/api?username=ipopa1995&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipopa1995&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
 ![Ioana GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipopa1995&theme=radical)
