@@ -2,13 +2,10 @@
 ![IOANA](bio_new.gif)
 
 # ipopa1995
-
-Welcome to my GitHub Profile!
 ![Ioana](animaited.svg)
 
 
 ## About Me
-
 I am passionate about technology, programming, and exploring innovative solutions to real-world problems. With a strong background in Bioinformatics and DataSience,
 I strive to create high-quality software and contribute to open source projects.
 
