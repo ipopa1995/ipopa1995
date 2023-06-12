@@ -39,9 +39,9 @@ I strive to create high-quality software and contribute to open source projects.
   <summary> <h2> Skills 🛠️ </h2> </summary>
 
 ### Languages
-[![English](https://img.shields.io/badge/English-Blue?style=for-the-badge&logo=google-translate&color=2B57AC)](https://en.wikipedia.org/wiki/English_language)
-[![German](https://img.shields.io/badge/German-Black?style=for-the-badge&logo=google-translate&color=000000)](https://en.wikipedia.org/wiki/German_language)
-[![Romanian](https://img.shields.io/badge/Romanian-🇷🇴%20Red?style=for-the-badge&logo=google-translate&color=002B7F)](https://en.wikipedia.org/wiki/Romanian_language)
+[![English](https://img.shields.io/badge/English-Blue?style=for-the-badge&logo=google-translate&color=2B57AC&logoColor=white)](https://en.wikipedia.org/wiki/English_language)
+[![German](https://img.shields.io/badge/German-Black?style=for-the-badge&logo=google-translate&color=000000&logoColor=white)](https://en.wikipedia.org/wiki/German_language)
+[![Romanian](https://img.shields.io/badge/Romanian-🇷🇴%20Red?style=for-the-badge&logo=google-translate&color=002B7F&logoColor=white)](https://en.wikipedia.org/wiki/Romanian_language)
 
 
 ### Programming Languages 👨‍💻
