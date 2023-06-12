@@ -20,7 +20,7 @@ I strive to create high-quality software and contribute to open source projects.
 ## Professional Experience
 - **Scientific Assistant** (08/2021 - Present)Institute for Clinical Chemistry, University Medical Center GöttingenProject: CovidCrawler - AI-NET Protect and GWDG
 - **Internship** (04/2020 - 07/2020)Department of Computer Science, Goethe University Frankfurt am Main
-- **Research Internship** (02/2020 - 04/2020)Molecular Bioinformatics Group (MolBI), Goethe University Frankfurt am Main
+- **Research Internship** (02/2020 - 04/2020) Molecular Bioinformatics Group (MolBI), Goethe University Frankfurt am Main
 - **Internship** (10/2019 - 01/2020)Department of Applied Bioinformatics, Goethe University Frankfurt am Main
 - **Internship** (04/2019 - 09/2019)Department of Computer Science, Goethe University Frankfurt am Main
 - **Practical Phase** (11/2017 - 04/2018)Department of Radiotherapy and Oncology, Mainz University Medical Center
@@ -30,7 +30,7 @@ I strive to create high-quality software and contribute to open source projects.
 
 ## Research Studies
 
-- **KnowVID-19: An artificially intelligent knowledge-based system for COVID-19 to extract targeted information from online medical repositories**Authors: Ioana Popa, Muzzamil Aziz, Amjad Zia, Sabih Ahmed Khan, Amirreza Fazely Hamedani, Abdul R. AsifYear: 2023
+- **KnowVID-19: An artificially intelligent knowledge-based system for COVID-19 to extract targeted information from online medical repositories**Authors: Ioana Popa, Muzzamil Aziz, Amjad Zia, Sabih Ahmed Khan, Amirreza Fazely Hamedani, Abdul R. Asif; Year: 2023 (not published yet)
 - **Artificial Intelligence-Based Medical Data Mining**
   Authors: Amjad Zia, Muzzamil Aziz, Ioana Popa, Sabih Ahmed Khan, Amirreza Fazely Hamedani, Abdul R. Asif
   Published in: J. Pers. Med. 2022, Volume 12, Issue 9, 1359
@@ -39,9 +39,7 @@ I strive to create high-quality software and contribute to open source projects.
 ## Skills
 
 ### Languages
-- German (fluent, spoken & written)
-- English (fluent, spoken & written)
-- Romanian (native language)
+- German, English, Romanian
 
 ### Programming Languages
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
@@ -85,9 +83,7 @@ I strive to create high-quality software and contribute to open source projects.
 
 
 # GitHUB STATS
-
 ![Ioana GitHub stats](https://github-readme-stats.vercel.app/api?username=ipopa1995&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipopa1995&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
 ![Ioana GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipopa1995&theme=radical)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ipopa1995&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
