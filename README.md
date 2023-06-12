@@ -37,7 +37,8 @@ I strive to create high-quality software and contribute to open source projects.
 
 <details>
   <summary> <h2> Skills 🛠️ </h2> </summary>
-
+_______
+  
 ### Languages
 [![English](https://img.shields.io/badge/English-Blue?style=for-the-badge&logo=google-translate&color=2B57AC&logoColor=white)](https://en.wikipedia.org/wiki/English_language)
 [![German](https://img.shields.io/badge/German-Black?style=for-the-badge&logo=google-translate&color=000000&logoColor=white)](https://en.wikipedia.org/wiki/German_language)
