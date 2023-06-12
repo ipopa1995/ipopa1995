@@ -36,6 +36,7 @@ I strive to create high-quality software and contribute to open source projects.
   Published in: J. Pers. Med. 2022, Volume 12, Issue 9, 1359
   Date: 24.08.2022
 
+<details open> 
 ## Skills
 
 ### Languages
@@ -80,7 +81,7 @@ I strive to create high-quality software and contribute to open source projects.
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
+</details>
 
 # GitHUB STATS
 ![Ioana GitHub stats](https://github-readme-stats.vercel.app/api?username=ipopa1995&show_icons=true&theme=radical)
