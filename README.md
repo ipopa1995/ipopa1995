@@ -4,6 +4,8 @@
 # ipopa1995
 
 Welcome to my GitHub Profile!
+![Ioana](animaited.svg)
+
 
 ## About Me
 
